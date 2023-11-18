@@ -14,12 +14,7 @@
 - 📫 How to reach me **https://instagram.com/itzsandeepshrma?igshid=OGQ5ZDc2ODk2ZA== - https://www.snapchat.com/add/itzsandeepshr?share_id=hdHOyyB3eV4&locale=en-US -https://x.com/itzsandeepshrma?t=oaeAq5DQPAKity5odVkeWg&s=08 https://pin.it/4aX5nJj**
 
 - 📄 Know about my experiences [https://github.com/itzsandeepshrma](https://github.com/itzsandeepshrma)
-- https://youtube.com/@itzsandeepshrma?si=vimeku9rgpga0yqv
-- https://instagram.com/itzsandeepshrma?igshid=OGQ5ZDc2ODk2ZA==
-- https://www.snapchat.com/add/itzsandeepshr?share_id=hdHOyyB3eV4&locale=en-US
-- https://x.com/itzsandeepshrma?t=oaeAq5DQPAKity5odVkeWg&s=08
 - 
-
 - ⚡ Fun fact **Coder,hacker 💀✨**
 
 <h3 align="left">Connect with me:</h3>
