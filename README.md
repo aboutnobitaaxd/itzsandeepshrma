@@ -13,7 +13,33 @@
 
 - 📫 How to reach me **https://instagram.com/itzsandeepshrma?igshid=OGQ5ZDc2ODk2ZA== - https://www.snapchat.com/add/itzsandeepshr?share_id=hdHOyyB3eV4&locale=en-US -https://x.com/itzsandeepshrma?t=oaeAq5DQPAKity5odVkeWg&s=08 https://pin.it/4aX5nJj**
 
-- 📄 Know about my experiences [https://github.com/itzsandeepshrma](https://github.com/itzsandeepshrma)
+- 📄 Know about my experiences
+
+- <a href="https://www.instagram.com/itzsandeepshrma/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+
+name: Sandeep Sharma 
+
+located in: Delhi, India 
+
+education:Bcom 1st year Delhi University 
+
+currently_learning: ["Docker, Kubernetes and React Native"]
+
+2024 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+
+hobbies: ["Gaming", Hacker, coder,"Cinema", "Skateboarding", "Art"]
+-
+
+
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 - 
 - ⚡ Fun fact **Coder,hacker 💀✨**
 
