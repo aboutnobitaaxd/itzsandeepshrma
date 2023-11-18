@@ -94,3 +94,43 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzsandeepshrma&show_icons=true&locale=en" alt="itzsandeepshrma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzsandeepshrma&" alt="itzsandeepshrma" /></p>
+
+
+Name: Sandeep Sharma 
+
+located in: Delhi India 
+
+education:
+"Bachelor's in Commerce 
+
+
+
+fields of interests:
+
+"Web Development",
+
+"Data Science",
+
+"Machine Learning",
+
+"UI/UX",
+
+"Game Development",
+
+"DevOps",
+
+technical_background:
+
+"DevOps Solutions Architect",
+
+"Intern Data Science & Machine Learning in Python",
+
+"Intern Internet Of Things",
+
+"Intern VLSI and FPGA Implementation",
+
+currently_learning: ["Docker, Kubernetes and React Native"]
+
+2024 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
