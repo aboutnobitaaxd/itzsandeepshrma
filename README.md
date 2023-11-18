@@ -14,6 +14,11 @@
 - 📫 How to reach me **https://instagram.com/itzsandeepshrma?igshid=OGQ5ZDc2ODk2ZA== - https://www.snapchat.com/add/itzsandeepshr?share_id=hdHOyyB3eV4&locale=en-US -https://x.com/itzsandeepshrma?t=oaeAq5DQPAKity5odVkeWg&s=08 https://pin.it/4aX5nJj**
 
 - 📄 Know about my experiences [https://github.com/itzsandeepshrma](https://github.com/itzsandeepshrma)
+- https://youtube.com/@itzsandeepshrma?si=vimeku9rgpga0yqv
+- https://instagram.com/itzsandeepshrma?igshid=OGQ5ZDc2ODk2ZA==
+- https://www.snapchat.com/add/itzsandeepshr?share_id=hdHOyyB3eV4&locale=en-US
+- https://x.com/itzsandeepshrma?t=oaeAq5DQPAKity5odVkeWg&s=08
+- 
 
 - ⚡ Fun fact **Coder,hacker 💀✨**
 
@@ -32,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzsandeepshrma&show_icons=true&locale=en" alt="itzsandeepshrma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzsandeepshrma&" alt="itzsandeepshrma" /></p>
-[<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
