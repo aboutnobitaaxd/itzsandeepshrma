@@ -21,8 +21,8 @@
 
 [![telegram badge](https://img.shields.io/badge/@itzsandeepshrma-30302f?style=for-the-badge&logo=telegram)](https://t.me/itzsandeepshrma)
 [![mailid badge](https://img.shields.io/badge/itzsandeepshrma-30302f?style=for-the-badge&logo=gmail)](mailto:uniquesandeepsharma@gmail.com)
-.[![Instagram badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=instagram)]
-.[![Twitter badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=twitter)]
+.[![Instagram badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=instagram)](https://instagram.com/itzsandeepshrma)
+.[![Twitter badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=twitter)](https://x.com/itzsandeepshrma)
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4
 
