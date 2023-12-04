@@ -39,7 +39,11 @@
 
 
 
-<h1> <img src="https://raw.githubusercontent.com/itzsandeepshrma/itzsandeepshrma/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
+
+
+
+
+<h1> <img src="https://raw.githubusercontent.com/itzsandeepshrma/itzsandeepshrma/master/resources/songs.gif" width="57px">ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="75%" />](https://open.spotify.com/user/gktvx7fpy90p0vd9ggs41reov?si=t0SmOdTcRpqfZzvy6kNn8A)
 
