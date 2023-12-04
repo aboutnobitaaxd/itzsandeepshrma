@@ -6,7 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzsandeepshrma" alt="itzsandeepshrma" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/itzsandeepshrma" target="blank"><img src="https://img.shields.io/twitter/follow/itzsandeepshrma?logo=twitter&style=for-the-badge" alt="itzsandeepshrma" /></a> </p>
-- 👀 I’m interested in Python,Java,C++,Node.js,mongodb [Python,Java](https://github.com/itzsandeepshrma)
+
+- 👀 I’m interested in Python,Java,C++,Node.js,mongodb [Python,Java]
 
 - 🌱 I’m currently learning **Java, python,node js,mongodb etc*
 
