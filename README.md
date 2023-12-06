@@ -18,9 +18,8 @@
 - ⚡ Fun fact **Coder,hacker 💀✨**
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%231AF73D&size=27&width=500&lines=Hey!+It's+Sandeep+Sharma!;I'm+a+developer...;I+love+to+code;Thanks+for+visiting++my+profile%E2%9D%A4%EF%B8%8F)](https://github.com/itzsandeepshrma)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hey+It's+me+Sandeep+Sharma!;I'm+developer...;I+love+to+code;Thanks+for+visiting++my+profile+%E2%9D%A4%EF%B8%8F"> 
 
 #### ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 
 
