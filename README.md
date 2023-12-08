@@ -1,6 +1,16 @@
 <h1 align="center"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ꧁☆☬𝐒𝐀𝐍𝐃𝐄𝐄𝐏_𝐒𝐇𝐀𝐑𝐌𝐀☬☆꧂</h1>
 <h3 align="center">A passionate frontend developer from Delhi,India</h3>
 
+
+
+
+ <img src="https://raw.githubusercontent.com/itzsandeepshrma/itzsandeepshrma/master/wave.gif" width="28"></h1>
+
+<p align="center">
+  <a href="https://t.me/itzsandeepshrma"><img src="https://mallucampaign.in/images/img_1702010680.jpg"></a>
+    </p>
+<p align="center">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzsandeepshrma&label=Profile%20views&color=0e75b6&style=flat" alt="itzsandeepshrma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzsandeepshrma" alt="itzsandeepshrma" /></a> </p>
