@@ -3,6 +3,16 @@
 
 
 
+𝐒𝐚𝐧𝐝𝐞𝐞𝐩 𝐒𝐡𝐚𝐫𝐦𝐚 ❤️✌️
+22 𝐍𝐨𝐯𝐞𝐦𝐛𝐞𝐫 ❤️
+𝐉𝐚𝐩𝐚𝐧❤️✨
+𝐃𝐞𝐥𝐡𝐢 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 (𝐁𝐂𝐎𝐌)
+𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐅𝐫𝐨𝐦 𝐎𝐭𝐡𝐞𝐫𝐬 
+𝐖𝐡𝐢𝐥𝐞 𝐆𝐨𝐨𝐝 𝐏𝐞𝐨𝐩𝐥𝐞 𝐃𝐨 𝐃𝐢𝐞 𝐓𝐡𝐞𝐢𝐫 𝐆𝐨𝐨𝐝𝐧𝐞𝐬𝐬 𝐋𝐢𝐯𝐞𝐬 𝐎𝐧 𝐅𝐨𝐫𝐞𝐯𝐞𝐫...
+
+
+
+
 
  <img src="https://raw.githubusercontent.com/itzsandeepshrma/itzsandeepshrma/master/wave.gif" width="28"></h1>
 
@@ -12,16 +22,7 @@
 
 
 
-### Introduction.....
 
-ησт α gσσ∂ sтυ∂εηт
-
-ησт α gσσ∂ sση 
-
-ησт α gσσ∂ вяσтнεя 
-
-ησт α gσσ∂ ғяιεη∂..............
-    
 <p align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzsandeepshrma&label=Profile%20views&color=0e75b6&style=flat" alt="itzsandeepshrma" /> </p>
