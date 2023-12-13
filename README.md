@@ -31,16 +31,6 @@
 
 <p align="left"> <a href="https://twitter.com/itzsandeepshrma" target="blank"><img src="https://img.shields.io/twitter/follow/itzsandeepshrma?logo=twitter&style=for-the-badge" alt="itzsandeepshrma" /></a> </p>
 
-- 👀 I’m interested in Python,Java,C++,Node.js,mongodb [Python,Java]
-
-- 🌱 I’m currently learning **Java, python,node js,mongodb etc*
-
-- 💬 Ask me about **Python,Java,c++,node.js,mongodb**
-
-
-
-- ⚡ Fun fact **Coder,hacker 💀✨**
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hey+It's+me+Sandeep+Sharma!;I'm+developer...;I+love+to+code;Thanks+for+visiting++my+profile+%E2%9D%A4%EF%B8%8F"> 
