@@ -17,7 +17,7 @@
  <img src="https://raw.githubusercontent.com/itzsandeepshrma/itzsandeepshrma/master/wave.gif" width="28"></h1>
 
 <p align="center">
-  <a href="https://t.me/itzsandeepshrma"><img src="https://mallucampaign.in/images/img_1702271223.jpg"></a>
+  <a href="https://t.me/itzsandeepshrma"><img src="https://mallucampaign.in/images/img_1702555120.jpg"></a>
     </p>
 
 
