@@ -43,6 +43,8 @@
 [![Twitter badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=twitter)](https://x.com/itzsandeepshrma)
 [![Snapchat badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=snapchat)](https://www.snapchat.com/add/itzsandeepshr?share_id=f14KXvSG8Jw&locale=en-US)
 [![Pinterest badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=pinterest)](https://pin.it/2RJ6SRT)
+[![YouTube badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=youtube)](https://youtube.com/@itzsandeepshrma?si=I5vlgLFSkq5r3Ozq)
+
 
 <h4 align="center"><b>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs❤️</b></h4 
 
