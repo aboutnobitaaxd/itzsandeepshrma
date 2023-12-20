@@ -3,13 +3,6 @@
 
 
 
-𝐒𝐚𝐧𝐝𝐞𝐞𝐩 𝐒𝐡𝐚𝐫𝐦𝐚 ❤️✌️
-22 𝐍𝐨𝐯𝐞𝐦𝐛𝐞𝐫 ❤️
-𝐉𝐚𝐩𝐚𝐧❤️✨
-𝐃𝐞𝐥𝐡𝐢 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 (𝐁𝐂𝐎𝐌)
-𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐅𝐫𝐨𝐦 𝐎𝐭𝐡𝐞𝐫𝐬 
-𝐖𝐡𝐢𝐥𝐞 𝐆𝐨𝐨𝐝 𝐏𝐞𝐨𝐩𝐥𝐞 𝐃𝐨 𝐃𝐢𝐞 𝐓𝐡𝐞𝐢𝐫 𝐆𝐨𝐨𝐝𝐧𝐞𝐬𝐬 𝐋𝐢𝐯𝐞𝐬 𝐎𝐧 𝐅𝐨𝐫𝐞𝐯𝐞𝐫...
-
 
 
 
@@ -17,7 +10,7 @@
  <img src="https://raw.githubusercontent.com/itzsandeepshrma/itzsandeepshrma/master/wave.gif" width="28"></h1>
 
 <p align="center">
-  <a href="https://t.me/itzsandeepshrma"><img src="https://mallucampaign.in/images/img_1702555120.jpg"></a>
+  <a href=""><img src="https://mallucampaign.in/images/img_1702555120.jpg"></a>
     </p>
 
 
@@ -29,21 +22,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzsandeepshrma" alt="itzsandeepshrma" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/itzsandeepshrma" target="blank"><img src="https://img.shields.io/twitter/follow/itzsandeepshrma?logo=twitter&style=for-the-badge" alt="itzsandeepshrma" /></a> </p>
+
 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hey+It's+me+Sandeep+Sharma!;I'm+developer...;I+love+to+code;Thanks+for+visiting++my+profile+%E2%9D%A4%EF%B8%8F"> 
 
-#### ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 
-
-[![telegram badge](https://img.shields.io/badge/@itzsandeepshrma-30302f?style=for-the-badge&logo=telegram)](https://t.me/itzsandeepshrma)
-[![mailid badge](https://img.shields.io/badge/itzsandeepshrma-30302f?style=for-the-badge&logo=gmail)](mailto:uniquesandeepsharma@gmail.com)
-[![Instagram badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=instagram)](https://instagram.com/itzsandeepshrma)
-[![Twitter badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=twitter)](https://x.com/itzsandeepshrma)
-[![Snapchat badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=snapchat)](https://www.snapchat.com/add/itzsandeepshr?share_id=f14KXvSG8Jw&locale=en-US)
-[![Pinterest badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=pinterest)](https://pin.it/2RJ6SRT)
-[![YouTube badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=youtube)](https://youtube.com/@itzsandeepshrma?si=I5vlgLFSkq5r3Ozq)
+## 𝐐𝐔𝐎𝐓𝐄𝐒 ❤️✨✌️
+ωнεяε үσυя тнιηкιηgs εη∂, мү тнιηкιηgs вεgιη 
+~꧁☆☬𝐒𝐀𝐍𝐃𝐄𝐄𝐏_𝐒𝐇𝐀𝐑𝐌𝐀☬☆꧂
 
 
 <h4 align="center"><b>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs❤️</b></h4 
