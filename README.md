@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hey+It's+me+Sandeep+Sharma!;I'm+developer...;I+love+to+code;Thanks+for+visiting++my+profile+%E2%9D%A4%EF%B8%8F"> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=𝐇𝐞𝐲+𝐈𝐭'𝐬+𝐦𝐞+꧁☆☬𝐒𝐀𝐍𝐃𝐄𝐄𝐏_𝐒𝐇𝐀𝐑𝐌𝐀☬☆꧂!;𝐈'𝐦+𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞+𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝+𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.;𝐈+𝐥𝐨𝐯𝐞+𝐭𝐨+𝐜𝐨𝐝𝐞;𝐓𝐡𝐚𝐧𝐤𝐬+𝐟𝐨𝐫+𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠++𝐦𝐲+𝐩𝐫𝐨𝐟𝐢𝐥𝐞+%E2%9D%A4%EF%B8%8F"> 
 
 
 ### 𝐂𝐔𝐑𝐑𝐄𝐍𝐓𝐋𝐘 𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐎𝐍 𝐒𝐎𝐂𝐈𝐀𝐋 𝐌𝐄𝐃𝐈𝐀 𝐒𝐎 𝐃𝐎𝐍'𝐓 𝐈𝐍𝐓𝐄𝐑𝐑𝐔𝐏𝐓𝐄𝐃 𝐌𝐄  ❤️✨✌️
