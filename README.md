@@ -29,7 +29,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hey+It's+me+Sandeep+Sharma!;I'm+developer...;I+love+to+code;Thanks+for+visiting++my+profile+%E2%9D%A4%EF%B8%8F"> 
 
 
-### 𝐂𝐔𝐑𝐑𝐄𝐍𝐓𝐋𝐘 𝐎𝐅𝐅𝐋𝐈𝐍𝐄 ❤️✨✌️
+### 𝐂𝐔𝐑𝐑𝐄𝐍𝐓𝐋𝐘 𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐎𝐍 𝐒𝐎𝐂𝐈𝐀𝐋 𝐌𝐄𝐃𝐈𝐀 𝐒𝐎 𝐃𝐎𝐍'𝐓 𝐈𝐍𝐓𝐄𝐑𝐑𝐔𝐏𝐓𝐄𝐃 𝐌𝐄  ❤️✨✌️
 
 
 ## 𝐐𝐔𝐎𝐓𝐄𝐒 ❤️✨✌️
