@@ -49,17 +49,6 @@
 
 [<img src="https://github-readme-stats.vercel.app/api?username=itzsandeepshrma&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/itzsandeepshrma)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsandeepshrma&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/itzsandeepshrma)
 
-
-#####    
-
-
-
-
-
-
-
-
-
 <h1> <img src="https://raw.githubusercontent.com/itzsandeepshrma/itzsandeepshrma/master/resources/songs.gif" width="59px">ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="75%" />](https://open.spotify.com/user/gktvx7fpy90p0vd9ggs41reov?si=t0SmOdTcRpqfZzvy6kNn8A)
