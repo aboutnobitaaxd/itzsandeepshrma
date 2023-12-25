@@ -26,10 +26,18 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=𝐇𝐞𝐲+𝐈𝐭'𝐬+𝐦𝐞+꧁☆☬𝐒𝐀𝐍𝐃𝐄𝐄𝐏_𝐒𝐇𝐀𝐑𝐌𝐀☬☆꧂!;𝐈'𝐦+𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞+𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝+𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.;𝐈+𝐥𝐨𝐯𝐞+𝐭𝐨+𝐜𝐨𝐝𝐞;𝐂𝐔𝐑𝐑𝐄𝐍𝐓𝐋𝐘+𝐎𝐅𝐅𝐋𝐈𝐍𝐄+𝐎𝐍+𝐒𝐎𝐂𝐈𝐀𝐋+𝐌𝐄𝐃𝐈𝐀+;𝐓𝐡𝐚𝐧𝐤𝐬+𝐟𝐨𝐫+𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠++𝐦𝐲+𝐩𝐫𝐨𝐟𝐢𝐥𝐞+%E2%9D%A4%EF%B8%8F"> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=𝐇𝐞𝐲+𝐈𝐭'𝐬+𝐦𝐞+꧁☆☬𝐒𝐀𝐍𝐃𝐄𝐄𝐏_𝐒𝐇𝐀𝐑𝐌𝐀☬☆꧂!;𝐈'𝐦+𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞+𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝+𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.;𝐈+𝐥𝐨𝐯𝐞+𝐭𝐨+𝐜𝐨𝐝𝐞;𝐓𝐡𝐚𝐧𝐤𝐬+𝐟𝐨𝐫+𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠++𝐦𝐲+𝐩𝐫𝐨𝐟𝐢𝐥𝐞+%E2%9D%A4%EF%B8%8F"> 
 
+#### ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 
 
-### 𝐂𝐔𝐑𝐑𝐄𝐍𝐓𝐋𝐘 𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐎𝐍 𝐒𝐎𝐂𝐈𝐀𝐋 𝐌𝐄𝐃𝐈𝐀 𝐒𝐎 𝐃𝐎𝐍'𝐓 𝐈𝐍𝐓𝐄𝐑𝐑𝐔𝐏𝐓𝐄𝐃 𝐌𝐄  ❤️✨✌️
+[![telegram badge](https://img.shields.io/badge/@itzsandeepshrma-30302f?style=for-the-badge&logo=telegram)](https://t.me/itzsandeepshrma)
+[![mailid badge](https://img.shields.io/badge/itzsandeepshrma-30302f?style=for-the-badge&logo=gmail)](mailto:uniquesandeepsharma@gmail.com)
+[![Instagram badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=instagram)](https://instagram.com/itzsandeepshrma)
+[![Twitter badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=twitter)](https://x.com/itzsandeepshrma)
+[![Snapchat badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=snapchat)](https://www.snapchat.com/add/itzsandeepshr?share_id=f14KXvSG8Jw&locale=en-US)
+[![Pinterest badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=pinterest)](https://pin.it/2RJ6SRT)
+[![YouTube badge](https://img.shields.io/badge/itzsandeepshrma-30302F?style=for-the-badge&logo=youtube)](https://youtube.com/@itzsandeepshrma?si=I5vlgLFSkq5r3Ozq)
+
 
 
 ## 𝐐𝐔𝐎𝐓𝐄𝐒 ❤️✨✌️
