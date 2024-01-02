@@ -9,9 +9,7 @@
 
  <img src="https://raw.githubusercontent.com/itzsandeepshrma/itzsandeepshrma/master/wave.gif" width="28"></h1>
 
-<p align="center">
-  <a href=""><img src="https://mallucampaign.in/images/img_1702555120.jpg"></a>
-    </p>
+![Weekly-Image-Announcement-Dagadusheth_Desktop](https://github.com/itzsandeepshrma/itzsandeepshrma/assets/144663674/e1838c95-9e97-4d0e-8498-322fdc45c086)
 
 
 
@@ -65,3 +63,4 @@
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="75%" />](https://open.spotify.com/user/gktvx7fpy90p0vd9ggs41reov?si=t0SmOdTcRpqfZzvy6kNn8A)
 
 [<img src="https://github.com/itzsandeepshrma/itzsandeepshrma/blob/master/resources/hr.gif"/>](https://github.com/itzsandeepshrma)
+
